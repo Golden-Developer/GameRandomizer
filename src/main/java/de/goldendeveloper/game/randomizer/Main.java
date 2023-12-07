@@ -1,4 +1,4 @@
-package de.goldendeveloper.GameRandomizer;
+package de.goldendeveloper.game.randomizer;
 
 public class Main {
 
